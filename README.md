@@ -1,8 +1,52 @@
-# React + Vite
+# 🍕 Pizzeria
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple web application for ordering pizzas online.
+### https://pizzeria-react.netlify.app/
 
-Currently, two official plugins are available:
+## 📝 Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Pizzeria is a web application that streamlines the pizza ordering process. Users can browse a menu, customize their orders, manage their cart, and track deliveries in real-time.
+
+## 🛠 Tech Stack
+
+- **Frontend:**
+  - React.js
+  - Redux (with Redux Toolkit)
+  - React Router
+  - Tailwind CSS
+
+- **Build Tool:**
+  - Vite
+
+
+## 🌟 Key Features
+
+- Interactive menu browsing
+- Real-time cart management
+- Order creation and tracking
+- Geolocation for address autocomplete
+- Responsive design
+
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+git clone https://github.com/Bartosz278/pizzeria.git
+
+
+
+2. Install dependencies:
+
+npm install
+
+
+
+3. Start the development server:
+
+npm run dev
+
+
+
+4. Open your browser and visit `http://localhost:(your port
+specified in the console)`
